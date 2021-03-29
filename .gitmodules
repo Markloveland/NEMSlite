@@ -1,0 +1,3 @@
+[submodule "adcirc-cg"]
+	path = adcirc-cg
+	url = https://github.com/moghimis/adcirc-cg.git
