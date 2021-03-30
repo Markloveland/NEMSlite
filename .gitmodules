@@ -1,6 +1,6 @@
-[submodule "adcirc-cg"]
-	path = adcirc-cg
-	url = https://github.com/moghimis/adcirc-cg.git
 [submodule "WW3"]
 	path = WW3
 	url = https://github.com/NOAA-EMC/WW3.git
+[submodule "adcirc-cg"]
+	path = adcirc-cg
+	url = https://github.com/GM-Ling/adcirc-cg.git
