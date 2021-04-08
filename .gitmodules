@@ -5,3 +5,6 @@
 [submodule "adcirc-cg"]
 	path = adcirc-cg
 	url = https://github.com/GM-Ling/adcirc-cg.git
+[submodule "ATMESH"]
+	path = ATMESH
+	url = https://github.com/noaa-ocs-modeling/ATMESH.git

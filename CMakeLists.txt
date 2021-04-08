@@ -35,4 +35,5 @@ find_package(Python 3 REQUIRED COMPONENTS Interpreter)
 message("Found Python: ${Python_EXECUTABLE}")
 
 add_subdirectory (WW3)
+#add_subdirectory (adcirc-cg)
 add_subdirectory (NEMS)
