@@ -7,4 +7,4 @@
 	url = https://github.com/GM-Ling/adcirc-cg.git
 [submodule "ATMESH"]
 	path = ATMESH
-	url = https://github.com/noaa-ocs-modeling/ATMESH.git
+	url = https://github.com/krsteffen/ATMESH.git
