@@ -28,3 +28,8 @@ git checkout develop (main branch should be OK as well)
 ##ATMESH
 cd ATMESH
 git checkout new-cmake-build-system
+
+#delete submodule
+git submodule deinit -f -- submodulename
+rm -rf .git/modules/submodulename
+git rm -f submodulename
